@@ -16,3 +16,7 @@ Updating following points in code on 25/06/2019
 - Calibration and Data retrieval mode both are working.
 - Adding screens for calibration and data retrieval modes.
 -Done
+
+
+Updated following points in code on 08/07/2019
+- updation in Checksum logic. If checksum value is greater than 127 decimal (hex 0x7F) then decimal 127 to be subtract from checksum value and send in packet.
